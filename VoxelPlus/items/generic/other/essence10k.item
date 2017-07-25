@@ -1,0 +1,9 @@
+{
+  "itemName" : "essence10k",
+  "price" : 100000,
+  "rarity" : "Uncommon",
+  "category" : "currency",
+  "inventoryIcon" : "essence10k.png",
+  "description" : "10000 ancient essence compressed into a voxel. Decompress it to get the essence back.",
+  "shortdescription" : "10k Essence"
+}
