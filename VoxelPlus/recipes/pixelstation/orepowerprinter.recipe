@@ -1,0 +1,12 @@
+{
+  "input" : [
+    { "item" : "solariumstar", "count" : 20 },
+    { "item" : "titaniumbar", "count" : 30 }
+  ],
+  "output" : {
+    "item" : "advancedorestation",
+    "count" : 1
+  },
+  "duration" : 5,
+  "groups" : [ "pixelstation" ]
+}

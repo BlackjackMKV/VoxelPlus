@@ -1,0 +1,37 @@
+{
+  "objectName" : "liquidationreactor",
+  "rarity" : "uncommon",
+  "interactAction" : "OpenCraftingInterface",
+  "interactData" : {
+    "config" : "/interface/windowconfig/liquidationreactor.config",
+    "filter" : [ "liquidationreactor" ]
+  },
+  "printable" : false,
+  "description" : "I can use this to turn pixels into liquids!",
+  "shortdescription" : "^orange;Liquidation Reactor^white;",
+  "race" : "generic",
+  "category" : "crafting",
+  "price" : 30,
+
+  "apexDescription" : "A reactor that can make liquids from pixels.",
+  "avianDescription" : "A chance to create liquids from pixels.",
+  "floranDescription" : "Floran ussse machine to make liquidssss.",
+  "glitchDescription" : "Curious. Launching liquid crafting data.",
+  "humanDescription" : "I can use this reactor to create liquids from pixels.",
+  "hylotlDescription" : "A way to make liquids from just pixels.",
+
+  "inventoryIcon" : "liquidationreactoricon.png",
+  "orientations" : [
+    {
+      "dualImage" : "liquidationreactor.png:<color>",
+
+      "imagePosition" : [-8, 0],
+      "frames" : 1,
+      "animationCycle" : 1.0,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+
+    }
+  ]
+}

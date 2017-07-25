@@ -1,0 +1,12 @@
+{
+  "input" : [
+    { "item" : "goldbar", "count" : 20 },
+    { "item" : "titaniumbar", "count" : 30 }
+  ],
+  "output" : {
+    "item" : "liquidationreactor",
+    "count" : 1
+  },
+  "duration" : 5,
+  "groups" : [ "pixelstation" ]
+}

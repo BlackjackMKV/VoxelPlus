@@ -1,0 +1,8 @@
+{
+  "input" : [
+    { "item" : "money", "count" : 200 }
+  ],
+  "output" : { "item" : "voxel200p", "count" : 1 },
+  "duration" : 0.9,
+  "groups" : [ "compressor", "pixelcompress" ]
+}

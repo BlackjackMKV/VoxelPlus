@@ -1,0 +1,13 @@
+{
+  "input" : [
+    { "item" : "copperbar", "count" : 20 },
+    { "item" : "ironbar", "count" : 20 },
+    { "item" : "titaniumbar", "count" : 30 }
+  ],
+  "output" : {
+    "item" : "medprinter",
+    "count" : 1
+  },
+  "duration" : 5,
+  "groups" : [ "pixelstation" ]
+}

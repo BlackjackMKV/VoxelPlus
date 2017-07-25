@@ -1,0 +1,36 @@
+{
+  "objectName" : "medprinter",
+  "rarity" : "uncommon",
+  "interactAction" : "OpenCraftingInterface",
+  "interactData" : {
+    "config" : "/interface/windowconfig/medprinter.config",
+    "filter" : [ "medprinter" ]
+  },
+  "printable" : false,
+  "description" : "I can use this to create stimpaks and other meds!",
+  "shortdescription" : "^orange;Med Assembler^white;",
+  "race" : "generic",
+  "category" : "crafting",
+  "price" : 30,
+
+  "apexDescription" : "This would allow the user to create meds from pixels.",
+  "avianDescription" : "I could create some meds here from spare pixels.",
+  "floranDescription" : "Floran could make medsss at thisss asssssembler...",
+  "glitchDescription" : "Interested. Checking internal health to see if meds are required.",
+  "humanDescription" : "I can use this station to create meds from pixels.",
+  "hylotlDescription" : "A way to make some meds from spare change, it seems.",
+
+  "inventoryIcon" : "medprintericon.png",
+  "orientations" : [
+    {
+      "imageLayers" : [ { "image" : "medprinter.png:<color>.<frame>", "fullbright" : true }, { "image" : "medprinterlit.png:<color>.<frame>" } ],
+      "imagePosition" : [-12, -0],
+      "frames" : 6,
+      "animationCycle" : 1.0,
+      "direction" : "right",
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    }
+  ]
+}

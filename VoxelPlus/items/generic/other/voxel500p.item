@@ -1,0 +1,8 @@
+{
+  "itemName" : "voxel500p",
+  "rarity" : "Common",
+  "inventoryIcon" : "voxel500p.png",
+  "description" : "500 pixels compressed into a voxel.",
+  "shortdescription" : "500p Voxel",
+  "Price" : 500
+}

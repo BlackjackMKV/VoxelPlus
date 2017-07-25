@@ -1,0 +1,8 @@
+{
+  "itemName" : "voxel1m",
+  "rarity" : "Legendary",
+  "inventoryIcon" : "voxel1m.png",
+  "description" : "1 million pixels compressed into a voxel. #SoRich",
+  "shortdescription" : "1m Voxel",
+  "Price" : 1000000
+}

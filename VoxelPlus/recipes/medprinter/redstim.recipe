@@ -1,0 +1,8 @@
+{
+  "input" : [ 
+    { "item" : "money", "count" : 300 }
+ ],
+  "output" : { "item" : "redstim", "count" : 1 },
+  "duration" : 0.01,
+  "groups" : [ "medprinter" ]
+}

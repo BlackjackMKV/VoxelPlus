@@ -1,0 +1,38 @@
+{
+  "objectName" : "pixelstation",
+  "rarity" : "uncommon",
+  "interactAction" : "OpenCraftingInterface",
+  "interactData" : {
+    "config" : "/interface/windowconfig/pixelstation.config",
+    "filter" : [ "pixelstation" ]
+  },
+  "printable" : false,
+  "description" : "I can use this to build pixel-based machines!",
+  "shortdescription" : "^orange;Pixel Station^white;",
+  "race" : "generic",
+  "category" : "crafting",
+  "price" : 30,
+
+  "apexDescription" : "A crafting station that allows for... Pixel construction?",
+  "avianDescription" : "A way to create something that uses pixels to run.",
+  "floranDescription" : "Floran ussse pixel ssstation. Make machinesss.",
+  "glitchDescription" : "Surprised. Booting pixel-crafting capabilities.",
+  "humanDescription" : "I can use this station to create machines that run off pixels.",
+  "hylotlDescription" : "A chance to build pixel machines.",
+
+  "inventoryIcon" : "pixelstationicon.png",
+  "orientations" : [
+    {
+      "dualImage" : "pixelstation.png:<color>",
+
+      "imagePosition" : [-16, 0],
+      "frames" : 1,
+      "animationCycle" : 1.0,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ],
+      "collision" : "platform"
+
+    }
+  ]
+}

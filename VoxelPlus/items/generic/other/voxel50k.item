@@ -1,0 +1,8 @@
+{
+  "itemName" : "voxel50k",
+  "rarity" : "Uncommon",
+  "inventoryIcon" : "voxel50k.png",
+  "description" : "50000 pixels compressed into a voxel.",
+  "shortdescription" : "50k Voxel",
+  "price" : 50000
+}

@@ -1,0 +1,8 @@
+{
+  "input" : [
+    { "item" : "money", "count" : 40 }
+  ],
+  "output" : { "item" : "ironore", "count" : 1 },
+  "duration" : 0.01,
+  "groups" : [ "basicorestation", "all" ]
+}

@@ -1,0 +1,36 @@
+{
+  "objectName" : "advancedorestation",
+  "rarity" : "uncommon",
+  "interactAction" : "OpenCraftingInterface",
+  "interactData" : {
+    "config" : "/interface/windowconfig/advancedorestation.config",
+    "filter" : [ "advancedorestation" ]
+  },
+  "printable" : false,
+  "description" : "I can use this to create metals from pixels!",
+  "shortdescription" : "^orange;Advanced Ore Station^white;",
+  "race" : "generic",
+  "category" : "crafting",
+  "price" : 30,
+
+  "apexDescription" : "A printer with metal construction abilities.",
+  "avianDescription" : "A chance to display one's ability to create.",
+  "floranDescription" : "Floran ussse printer. Make ssshiny metalsss.",
+  "glitchDescription" : "Inspired. Printing module activated.",
+  "humanDescription" : "I can use pixels I've acquired here to create metals.",
+  "hylotlDescription" : "A chance to create.",
+
+  "inventoryIcon" : "advancedorestationicon.png",
+  "orientations" : [
+    {
+      "imageLayers" : [ { "image" : "advancedorestation.png:<color>.<frame>", "fullbright" : true }, { "image" : "advancedorestationlit.png:<color>.<frame>" } ],
+      "imagePosition" : [-12, 1],
+      "frames" : 6,
+      "animationCycle" : 1.0,
+      "direction" : "right",
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    }
+  ]
+}

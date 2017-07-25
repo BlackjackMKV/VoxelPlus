@@ -1,0 +1,8 @@
+{
+  "itemName" : "voxel1p",
+  "rarity" : "Common",
+  "inventoryIcon" : "voxel1p.png",
+  "description" : "1 pixel compressed into a voxel.",
+  "shortdescription" : "1p Voxel",
+  "price" : 1
+}
