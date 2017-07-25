@@ -1,0 +1,8 @@
+{
+  "itemName" : "essence10p",
+  "rarity" : "Common",
+  "inventoryIcon" : "voxel10p.png",
+  "description" : "10 essence compressed into a voxel.",
+  "shortdescription" : "10p Essence",
+  "price" : 10
+}
