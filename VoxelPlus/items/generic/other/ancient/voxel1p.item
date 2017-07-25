@@ -2,7 +2,7 @@
   "itemName" : "essence1p",
   "rarity" : "Common",
   "inventoryIcon" : "voxel1p.png",
-  "description" : "1 essence compressed into a voxel. idk why but "one essence" just sounds weird. -private piggler",
+  "description" : "1 essence compressed into a voxel.",
   "shortdescription" : "1p Essence",
   "price" : 1
 }
