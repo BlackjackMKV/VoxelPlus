@@ -33,3 +33,6 @@ To-do List:
 Credits:
 mysteek_80 drew the sprites for the Med Assembler, Basic, and Advanced Ore Stations, and did an amazing job of it. I highly encourage checking their stuff out here, if you are looking for more amazing mods and sprites!
 http://steamcommunity.com/profiles/76561198025034894/myworkshopfiles/ 
+
+It can be found here on Steam: http://steamcommunity.com/sharedfiles/filedetails/?id=809878593
+It can alternatively be found here on the official mod forums: http://community.playstarbound.com/resources/voxelplus-1-1-5.2909/
