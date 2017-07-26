@@ -4,5 +4,5 @@
   ],
   "output" : { "item" : "voxel1p", "count" : 1 },
   "duration" : 0.9,
-  "groups" : [ "compressor", "pixelcompress" ]
+  "groups" : [ "compressor", "advcompress" ]
 }

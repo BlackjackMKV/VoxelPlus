@@ -4,5 +4,5 @@
   ],
   "output" : { "item" : "money", "count" : 100 },
   "duration" : 0.9,
-  "groups" : [ "compressor", "pixeldecompress" ]
+  "groups" : [ "compressor", "advdecompress" ]
 }
