@@ -10,6 +10,7 @@ Ever wanted to pay another player in pixels, but didn't have small or big enough
 I might add more features later, but I'm still relearning how to mod Starbound so don't expect anything super complicated. If you have some ideas though I'm more than happy to hear them! I'll bet I can create some of them. 
 
 Mod Versions: 
+- 2.5 is for 1.3+
 - 2.0 to 2.4 are for 1.1.5+ 
 - 1.9 to 1.0 are for Spirited Giraffe 
 
