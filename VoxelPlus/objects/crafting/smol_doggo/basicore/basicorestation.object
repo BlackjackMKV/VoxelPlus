@@ -1,0 +1,49 @@
+{
+  "objectName" : "smallbasicorestation",
+  "colonyTags" : ["crafting"],
+  "rarity" : "uncommon",
+  "interactAction" : "OpenCraftingInterface",
+  "interactData" : {
+    "config" : "/interface/windowconfig/basicorestation.config",
+    "filter" : [ "basicorestation" ]
+  },
+  "printable" : false,
+  "description" : "I can use this to create metals from pixels!",
+  "shortdescription" : "^orange;Basic Ore Station (Small)^white;",
+  "race" : "generic",
+  "category" : "crafting",
+  "price" : 30,
+
+  "apexDescription" : "A printer with metal construction abilities.",
+  "avianDescription" : "A chance to display one's ability to create.",
+  "floranDescription" : "Floran ussse printer. Make ssshiny metalsss.",
+  "glitchDescription" : "Inspired. Printing module activated.",
+  "humanDescription" : "I can use pixels I've acquired here to create metals.",
+  "hylotlDescription" : "A chance to create.",
+  "novakidDescription" : "wow an unfinished description",
+
+  "inventoryIcon" : "basicorestationicon.png",
+  "orientations" : [
+    {
+      "imageLayers" : [ { "image" : "basicorestation.png:<frame>" }, { "image" : "basicorestationlit.png:<frame>", "fullbright" : true  } ],
+      "imagePosition" : [0, 0],
+      "frames" : 1,
+      "animationCycle" : 1.0,
+      "direction" : "left",
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "background" ]
+    },
+	{
+      "imageLayers" : [ { "image" : "basicorestation.png:<frame>" }, { "image" : "basicorestationlit.png:<frame>", "fullbright" : true  } ],
+      "imagePosition" : [0, 0],
+      "frames" : 1,
+      "animationCycle" : 1.0,
+      "direction" : "right",
+	  "flipImages" : true,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "background" ]
+    }
+  ]
+}

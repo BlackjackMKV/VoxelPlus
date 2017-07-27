@@ -1,0 +1,12 @@
+{
+  "input" : [
+    { "item" : "silverbar", "count" : 20 },
+    { "item" : "titaniumbar", "count" : 30 }
+  ],
+  "output" : {
+    "item" : "smallbasicorestation",
+    "count" : 1
+  },
+  "duration" : 5,
+  "groups" : [ "pixelstation" ]
+}
