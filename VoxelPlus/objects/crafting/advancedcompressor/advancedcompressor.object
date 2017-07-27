@@ -27,10 +27,23 @@
   "inventoryIcon" : "advancedcompressoricon.png",
   "orientations" : [
     {
-      "dualImage" : "advancedcompressor.png.<frame>",
+      "dualImage" : "advancedcompressor.png:<frame>",
       "imagePosition" : [-24, 0],
       "frames" : 8,
       "animationCycle" : 1.0,
+      "direction" : "left",
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+
+    },
+	{
+      "dualImage" : "advancedcompressor.png:<frame>",
+      "imagePosition" : [-24, 0],
+      "frames" : 8,
+      "animationCycle" : 1.0,
+      "direction" : "right",
+	  "flipImages" : true,
 
       "spaceScan" : 0.1,
       "anchors" : [ "bottom" ]
