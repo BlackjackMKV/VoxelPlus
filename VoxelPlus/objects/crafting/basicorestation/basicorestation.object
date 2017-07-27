@@ -20,15 +20,27 @@
   "glitchDescription" : "Inspired. Printing module activated.",
   "humanDescription" : "I can use pixels I've acquired here to create metals.",
   "hylotlDescription" : "A chance to create.",
+  "novakidDescription" : "wow an unfinished description",
 
   "inventoryIcon" : "basicorestationicon.png",
   "orientations" : [
     {
-      "imageLayers" : [ { "image" : "basicorestation.png:<color>.<frame>", "fullbright" : true }, { "image" : "basicorestationlit.png:<color>.<frame>" } ],
-      "imagePosition" : [-12, 1],
+      "imageLayers" : [ { "image" : "basicorestation.png:<frame>" }, { "image" : "basicorestationlit.png:<frame>", "fullbright" : true  } ],
+      "imagePosition" : [0, 0],
+      "frames" : 6,
+      "animationCycle" : 1.0,
+      "direction" : "left",
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    },
+	{
+      "imageLayers" : [ { "image" : "basicorestation.png:<frame>" }, { "image" : "basicorestationlit.png:<frame>", "fullbright" : true  } ],
+      "imagePosition" : [0, 0],
       "frames" : 6,
       "animationCycle" : 1.0,
       "direction" : "right",
+	  "flipImages" : true,
 
       "spaceScan" : 0.1,
       "anchors" : [ "bottom" ]

@@ -23,11 +23,27 @@
   "inventoryIcon" : "liquidationreactoricon.png",
   "orientations" : [
     {
-      "dualImage" : "liquidationreactor.png:<color>",
+      "imageLayers" : [ { "image" : "liquidationreactor.png" }, { "image" : "lit.png", "fullbright" : true } ],
 
       "imagePosition" : [-8, 0],
       "frames" : 1,
       "animationCycle" : 1.0,
+	  
+      "direction" : "left",
+      "flipImages" : true,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+
+    },
+    {
+      "imageLayers" : [ { "image" : "liquidationreactor.png" }, { "image" : "lit.png", "fullbright" : true } ],
+
+      "imagePosition" : [-8, 0],
+      "frames" : 1,
+      "animationCycle" : 1.0,
+	  
+      "direction" : "right",
 
       "spaceScan" : 0.1,
       "anchors" : [ "bottom" ]

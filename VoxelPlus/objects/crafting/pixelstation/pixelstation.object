@@ -23,15 +23,30 @@
   "inventoryIcon" : "pixelstationicon.png",
   "orientations" : [
     {
-      "dualImage" : "pixelstation.png:<color>",
+      "imageLayers" : [ { "image" : "pixelstation.png" }, { "image" : "lit.png", "fullbright" : true } ],
 
       "imagePosition" : [-16, 0],
       "frames" : 1,
       "animationCycle" : 1.0,
+	  
+      "direction" : "left",
+      "flipImages" : true,
 
       "spaceScan" : 0.1,
-      "anchors" : [ "bottom" ],
-      "collision" : "platform"
+      "anchors" : [ "bottom" ]
+
+    },
+    {
+      "imageLayers" : [ { "image" : "pixelstation.png" }, { "image" : "lit.png", "fullbright" : true } ],
+
+      "imagePosition" : [-16, 0],
+      "frames" : 1,
+      "animationCycle" : 1.0,
+	  
+      "direction" : "right",
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
 
     }
   ]

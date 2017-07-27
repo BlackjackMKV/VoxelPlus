@@ -6,7 +6,7 @@
   "interactAction" : "OpenCraftingInterface",
   "interactData" : {
     "config" : "/interface/windowconfig/advancedcompressor.config",
-    "filter" : [ "compressor" ]
+    "filter" : [ "acompressor" ]
   },
 
   "category" : "crafting",
@@ -27,7 +27,7 @@
   "inventoryIcon" : "advancedcompressoricon.png",
   "orientations" : [
     {
-      "dualImage" : "advancedcompressor.png:<color>.<frame>",
+      "dualImage" : "advancedcompressor.png.<frame>",
       "imagePosition" : [-24, 0],
       "frames" : 8,
       "animationCycle" : 1.0,
