@@ -4,5 +4,5 @@
   ],
   "output" : { "item" : "voxel20k", "count" : 1 },
   "duration" : 0.9,
-  "groups" : [ "compressor", "advcompress" ]
+  "groups" : [ "acompressor", "advcompress" ]
 }
