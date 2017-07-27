@@ -1,8 +1,0 @@
-{
-  "input" : [
-    { "item" : "voxel50k", "count" : 1 }
-  ],
-  "output" : { "item" : "essence", "count" : 50000 },
-  "duration" : 0.9,
-  "groups" : [ "compressor", "pixeldecompress" ]
-}

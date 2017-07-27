@@ -1,0 +1,8 @@
+{
+  "input" : [
+    { "item" : "essence100k", "count" : 1 }
+  ],
+  "output" : { "item" : "essence", "count" : 100000 },
+  "duration" : 0.9,
+  "groups" : [ "caltar", "essencede" ]
+}

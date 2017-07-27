@@ -1,8 +1,0 @@
-{
-  "input" : [
-    { "item" : "voxel100p", "count" : 1 }
-  ],
-  "output" : { "item" : "essence", "count" : 100 },
-  "duration" : 0.9,
-  "groups" : [ "compressor", "pixeldecompress" ]
-}

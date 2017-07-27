@@ -1,8 +1,0 @@
-{
-  "input" : [
-    { "item" : "essence", "count" : 500000 }
-  ],
-  "output" : { "item" : "essence500k", "count" : 1 },
-  "duration" : 0.9,
-  "groups" : [ "compressor", "pixelcompress" ]
-}
