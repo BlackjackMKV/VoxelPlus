@@ -54,6 +54,8 @@
 { "op": "add", "path": "/defaultBlueprints/tier1/-", "value" : { "item" : "essence200k" } },
 { "op": "add", "path": "/defaultBlueprints/tier1/-", "value" : { "item" : "essence500k" } },
 { "op": "add", "path": "/defaultBlueprints/tier1/-", "value" : { "item" : "essence1m" } },
+{ "op": "add", "path": "/defaultBlueprints/tier1/-", "value" : { "item" : "compressaltar" } },
 { "op": "add", "path": "/defaultBlueprints/tier1/-", "value" : { "item" : "smalladvancedorestation" } },
-{ "op": "add", "path": "/defaultBlueprints/tier1/-", "value" : { "item" : "smallbasicorestation" } }
+{ "op": "add", "path": "/defaultBlueprints/tier1/-", "value" : { "item" : "smallbasicorestation" } },
+{ "op": "add", "path": "/defaultBlueprints/tier1/-", "value" : { "item" : "smallcompressaltar" } }
 ]
