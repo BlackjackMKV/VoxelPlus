@@ -10,7 +10,7 @@ Ever wanted to pay another player in pixels, but didn't have small or big enough
 I might add more features later, but I'm still relearning how to mod Starbound so don't expect anything super complicated. If you have some ideas though I'm more than happy to hear them! I'll bet I can create some of them. 
 
 Mod Versions: 
-- 2.5 is for 1.3+
+- 2.5 to 2.6 are for 1.3+
 - 2.0 to 2.4 are for 1.1.5+ 
 - 1.9 to 1.0 are for Spirited Giraffe 
 
@@ -36,7 +36,7 @@ To-do List:
 
 Compatibility:
 - Frackin' Universe: Won't cause any issues as far as I know, however we don't have the items set up for synth-ing yet.
-- Ancient Essence Voxels(The original): No problems at all that we know of. Not sure why you'd install both, but you shouldn't encounter any issues if you do.
+- Ancient Essence Voxels(The original): Not fully compatible. You can install both, but you'll end up with recipe glitches.
 
 Credits: 
 mysteek_80 drew the sprites for the Med Assembler, Basic, and Advanced Ore Stations, and did an amazing job of it. I highly encourage checking their stuff out here, if you are looking for more amazing mods and sprites! 
