@@ -1,12 +1,12 @@
 {
   "input" : [
-    { "item" : "pixelcompressor", "count" : 1 }
+    { "item" : "pixelcompressor", "count" : 1 },
     { "item" : "solariumstar", "count" : 20 }
   ],
   "output" : {
     "item" : "advancedcompressor",
     "count" : 1
   },
-  "duration" : 0.1,
+  "duration" : 5,
   "groups" : [ "pixelstation" ]
 }
