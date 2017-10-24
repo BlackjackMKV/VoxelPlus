@@ -4,5 +4,5 @@
   ],
   "output" : { "item" : "voxel500p", "count" : 1 },
   "duration" : 0.9,
-  "groups" : [ "aacompressor", "advcompress" ]
+  "groups" : [ "acompressor", "advcompress" ]
 }
